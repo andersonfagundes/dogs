@@ -1,5 +1,5 @@
 import React from 'react';
-import { TOKEN_POST, TOKEN_VALIDATE_POST, USER_GET } from './api';
+import { TOKEN_POST, TOKEN_VALIDATE_POST, USER_GET } from './Api';
 import { findDOMNode } from 'react-dom';
 import { useNavigate } from 'react-router-dom';
 
